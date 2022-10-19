@@ -51,6 +51,7 @@ We have an API that calls a list of animals and we just need dogs, cats and bird
 4. **External services**: the outermost layer of the application. We have Frameworks and External Services here, they are dependent on the rest of layers, doesn't matter what external service implements the interface, the application of it is agnostic.
 
 
+
 Clean Architecture has good points like: 
 
 1. Independent of frameworks.
@@ -63,8 +64,11 @@ Clean Architecture has good points like:
 ## References
 
 [The clean architecture by Robert C. Martin](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+
 [Clean architecture on frontend](https://bespoyasov.me/blog/clean-architecture-on-frontend/)
+
 [Why is software architecture important?](https://codecoach.co.nz/why-is-software-architecture-important/)
+
 [The dependency rule](https://codecoach.co.nz/clean-architecture-the-dependency-rule/)
 
 [The new way to apply Clean Architecture on frontend (spanish)](https://www.youtube.com/watch?v=MAL7a_aXhxE)
